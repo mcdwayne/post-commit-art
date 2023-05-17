@@ -11,7 +11,7 @@ This repo can help!
 
 2. Copy the `post-commit` script into your `.git/hooks` folder for any/all repos you want to use this with, or in your [global hooks folder](https://coderwall.com/p/jp7d5q/create-a-global-git-commit-hook) if that's how you roll.
 
-3. Run `chmod 755 post-commit` (or however you prefer to permission it) in the folder where you put the sript to permisison it to run.
+3. Run `chmod 755 post-commit` (or however you prefer to permission it) in the folder where you put the script to permisison it to run.
 
 4. Move the `.ascii-art` folder to your desktop. 
 
