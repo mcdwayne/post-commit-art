@@ -28,5 +28,68 @@ If you want to say thanks in a meantingful way, please consider [buying one of h
 Also, thanks to [Matthew Hudson for his inspirational site GitHooks.com](https://githooks.com/). Without the list view of possible hooks, this repo would not exist. 
 
 ## Examples
-
-1
+```
+post-commit-art ~ $git add README.md 
+post-commit-art ~ $git commit -m 'updated README'
+                r                
+               ain               
+               rai               
+              nrain              
+             rainrai             
+            nrainrain            
+           ainrainrain           
+          rainrainrainr          
+         ainrainrainrain         
+        rainrainrainrainr        
+      ainrainrainrainrainra      
+    inra nrainrainrainrainrai    
+  nrain  inrainrainrainrainrain  
+ rain   nrainrainrainrainrainrai 
+nrai   inrainrainrainrainrainrain
+rai   inrainrainrainrainrainrainr
+rain   nrainrainrainrainrainrainr
+ rainr  nrainrainrainrainrainrai 
+  nrain ainrainrainrainrainrain  
+    rainrainrainrainrainrainr    
+      rainranirainrainrainr      
+           ainrainrain           
+[main de27b65] updated README
+ 1 file changed, 2 insertions(+)
+post-commit-art ~ $git add README.md             
+post-commit-art ~ $git commit -m 'updated README again'
+                                  ....                            
+                                .'' .'''                          
+.                             .'   :                              
+\\                          .:    :                               
+ \\                        _:    :       ..----.._                
+  \\                    .:::.....:::.. .'         ''.             
+   \\                 .'  #-. .-######'     #        '.           
+    \\                 '.##'/ ' ################       :          
+     \\                  #####################         :          
+      \\               ..##.-.#### .''''###'.._        :          
+       \\             :--:########:            '.    .' :         
+        \\..__...--.. :--:#######.'   '.         '.     :         
+        :     :  : : '':'-:'':'::        .         '.  .'         
+        '---'''..: :    ':    '..'''.      '.        :'           
+           \\  :: : :     '      ''''''.     '.      .:           
+            \\ ::  : :     '            '.      '      :          
+             \\::   : :           ....' ..:       '     '.        
+              \\::  : :    .....####\\ .~~.:.             :       
+               \\':.:.:.:'#########.===. ~ |.'-.   . '''.. :      
+                \\    .'  ########## \ \ _.' '. '-.       '''.    
+                :\\  :     ########   \ \      '.  '-.        :   
+               :  \\'    '   #### :    \ \      :.    '-.      :  
+              :  .'\\   :'  :     :     \ \       :      '-.    : 
+             : .'  .\\  '  :      :     :\ \       :        '.   :
+             ::   :  \\'  :.      :     : \ \      :          '. :
+             ::. :    \\  : :      :    ;  \ \     :           '.:
+              : ':    '\\ :  :     :     :  \:\     :        ..'  
+                 :    ' \\ :        :     ;  \|      :   .'''     
+                 '.   '  \\:                         :.''         
+                  .:..... \\:       :            ..''             
+                 '._____|'.\\......'''''''.:..'''                 
+                            \\                                    
+[main dbde047] updated README again
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+post-commit-art ~ $
+```
