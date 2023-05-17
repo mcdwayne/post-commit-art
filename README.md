@@ -26,3 +26,5 @@ If you want to say thanks in a meantingful way, please consider [buying one of h
 
 
 Also, thanks to [Matthew Hudson for his inspirational site GitHooks.com](https://githooks.com/). Without the list view of possible hooks, this repo would not exist. 
+
+## Examples
