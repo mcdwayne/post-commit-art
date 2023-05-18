@@ -2,4 +2,3 @@
 
 RANDNUM=$(( $RANDOM % 5474 + 1 ))
 cat ~/.ascii-art/asciiart.json | jq -r .[$RANDNUM].art
-curl -s https://zenquotes.io/api/random | jq -r .[].q,.[].a 
