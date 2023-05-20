@@ -1,7 +1,9 @@
 # Post-Commit Art
 ## Reward your commits with some ASCII art
 
-Tired of not having the same old output from your git commits? Have you ever wanted to spice up your logs with some ASCII art? 
+Tired of just having the same old output from your git commits? 
+
+Have you ever wanted to spice up your logs with some ASCII art? 
 
 This repo can help!
 
@@ -93,4 +95,3 @@ post-commit-art ~ $git commit -m 'updated README again'
  1 file changed, 3 insertions(+), 1 deletion(-)
 post-commit-art ~ $
 ```
-
